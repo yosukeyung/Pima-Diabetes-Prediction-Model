@@ -55,5 +55,5 @@ If you prefer to run this project on Google Colab (as demonstrated in the Jupyte
    3. Run the notebook cells and use Cloudflare Tunnel (trycloudflare.com) to expose the Streamlit        local server to the public web.
 
 ## 👨‍💻 Author
-Yosuke
-- GitHub: @yosukeyung
+Yosuke Yung
+*CS Student @ BINUS UNIVERSITY*
