@@ -32,14 +32,14 @@ Follow these steps to run the application on your local machine:
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/your-username/diabetes-risk-predictor.git](https://github.com/your-username/diabetes-risk-predictor.git)
+git clone [https://github.com/yosukeyung/Pima-Diabetes-Prediction-Model.git](https://github.com/yosukeyung/Pima-Diabetes-Prediction-Model.git)
 cd diabetes-risk-predictor
 ```
 
 ### 2. Install Dependencies
 Make sure you have Python installed. Then, install the required libraries by running:
 ```bash
-pip install pandas numpy scikit-learn matplotlib streamlit joblib
+pip install -r requirements.txt
 ```
 ### 3. Run the Streamlit App
 Execute the following command in your terminal:
